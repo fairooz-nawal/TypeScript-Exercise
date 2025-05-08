@@ -1,5 +1,5 @@
-Q.How TypeScript Improves Code Quality and Project 
-Maintainability?? 
+# Q.How TypeScript Improves Code Quality and Project Maintainability?? 
+
 Typescript adds optional type annotations that get checked at compile time. While this might 
 sound like extra work, the benefits are significant. 
 1. Catch Errors Early 
@@ -20,7 +20,8 @@ Q.What is Type Inference in TypeScript—and Why is it
 Helpful? 
 Type Inference is one of the most powerful features in TypeScript. It means it can automatically 
 infer the type of a variable based on its initial value. 
-Why is This Helpful? 
+
+# Q.Why is This Helpful? 
  Less Code, Same Safety: You get the benefits of type checking without the verbosity of 
 manually writing out every type. 
  Smart Autocompletion: Inferred types power better IntelliSense in editors. 
